@@ -1,0 +1,15 @@
+Recursos
+Sección 1, clase 4
+Los siguientes son la lista de recursos y documentación que se estará utilizando durante el curso. Deberas utilizarlos y accederlos durante todo el curso. Especialmente el repositorio del curso de Node.js, por lo que te pido mantenerlo a la mano en todo momento.
+
+1. Repositorio del curso de Node.js: https://github.com/jorgevgut/curso_nodejs 
+
+2. Página oficial de Node.js: https://nodejs.org/es/
+
+3. Página oficial de npm: https://www.npmjs.com
+
+4. Página oficial de React: https://facebook.github.io/react/ 
+
+5. Página oficial de mocha: https://mochajs.org/
+
+6. Página oficial de chai: http://chaijs.com/

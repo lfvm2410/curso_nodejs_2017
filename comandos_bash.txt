@@ -1,0 +1,12 @@
+Comandos bash:
+
+"pwd":ubicación del sistema
+"ls":directorios en ubicación actual
+"cd [nombre_directorio]":acceder a directorio
+"cd ..": regresar a ubicación original
+"vin [nombre_archivo_extension]": ver contenido del archivo
+":q": salir de la vista de un archivo
+"nano [nombre_archivo]": para hacer ediciones de un archivo
+"clear":limpiar consola/terminal
+"cat [nombre_archivo_extension]": leer archivo especificado
+"man [nombre_comando_consola]": ver el manual del comando especificado

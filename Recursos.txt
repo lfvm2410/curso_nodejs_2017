@@ -13,3 +13,5 @@ Los siguientes son la lista de recursos y documentación que se estará utilizando
 5. Página oficial de mocha: https://mochajs.org/
 
 6. Página oficial de chai: http://chaijs.com/
+
+7. Tutorial para instalar Node.js en Ubuntu Linux: https://nodejs.org/es/download/package-manager/

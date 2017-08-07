@@ -1,0 +1,6 @@
+Comandos node:
+
+node --version: "Ver la versi�n de node instalada"
+node: "Para entrar en node"
+node nombreArchivo.js: "Para correr archivo usando node"
+.exit: "Salir de node"

@@ -1,17 +1,19 @@
 Recursos
-Sección 1, clase 4
-Los siguientes son la lista de recursos y documentación que se estará utilizando durante el curso. Deberas utilizarlos y accederlos durante todo el curso. Especialmente el repositorio del curso de Node.js, por lo que te pido mantenerlo a la mano en todo momento.
+Secciï¿½n 1, clase 4
+Los siguientes son la lista de recursos y documentaciï¿½n que se estarï¿½ utilizando durante el curso. Deberas utilizarlos y accederlos durante todo el curso. Especialmente el repositorio del curso de Node.js, por lo que te pido mantenerlo a la mano en todo momento.
 
-1. Repositorio del curso de Node.js: https://github.com/jorgevgut/curso_nodejs 
+1. Repositorio del curso de Node.js: https://github.com/jorgevgut/curso_nodejs
 
-2. Página oficial de Node.js: https://nodejs.org/es/
+2. Pï¿½gina oficial de Node.js: https://nodejs.org/es/
 
-3. Página oficial de npm: https://www.npmjs.com
+3. Pï¿½gina oficial de npm: https://www.npmjs.com
 
-4. Página oficial de React: https://facebook.github.io/react/ 
+4. Pï¿½gina oficial de React: https://facebook.github.io/react/
 
-5. Página oficial de mocha: https://mochajs.org/
+5. Pï¿½gina oficial de mocha: https://mochajs.org/
 
-6. Página oficial de chai: http://chaijs.com/
+6. Pï¿½gina oficial de chai: http://chaijs.com/
 
 7. Tutorial para instalar Node.js en Ubuntu Linux: https://nodejs.org/es/download/package-manager/
+
+8. Instalar bash en Windows: https://winphonemetro.com/2016/08/como-instalar-bash-ubuntu-windows-10-anniversary
